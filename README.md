@@ -4,7 +4,7 @@
 
 <h3>👋 Contributor:</h3>
 
-- 🌱 Zidan Alfa Permana: **XI/PPLG-3/29**
+- 🌱 Achmad Rhomadhon : **XI/PPLG-3/2**
 
 <h3>✅ Features</h3>
 
